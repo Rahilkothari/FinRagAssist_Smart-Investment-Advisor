@@ -190,17 +190,16 @@ http://127.0.0.1:7860
 ## 📸 Screenshots
 
 ### 🔹 Risk Profiler
-<img width="1892" height="566" alt="Image" src="https://github.com/user-attachments/assets/4577b195-bc4d-4dfc-9010-ecf83e976183" />
-<img width="913" height="953" alt="Image" src="https://github.com/user-attachments/assets/28d7b0c9-22ae-4fe4-8cad-0804118660b2" />
+<img width="1892" height="566" alt="Screenshot 2025-11-22 193248" src="https://github.com/user-attachments/assets/ad1982a4-5b49-4c2c-a3fe-75f319bb27e5" />
+<img width="913" height="953" alt="Screenshot 2025-11-22 193302" src="https://github.com/user-attachments/assets/a9ec61c3-8c62-4f88-bc12-68e7b479939f" />
 
 ### 🔹 Technical Charts
-<img width="1884" height="819" alt="Image" src="https://github.com/user-attachments/assets/900ca8d4-1cd8-4537-a37c-0d4e5851867c" />
-<img width="996" height="994" alt="Image" src="https://github.com/user-attachments/assets/1182414b-d30a-4682-a645-538514559d55" />
-
+<img width="1884" height="819" alt="Screenshot 2025-11-22 195159" src="https://github.com/user-attachments/assets/f910dcbd-675b-432a-b2bc-847bc978cbdb" />
+<img width="996" height="994" alt="Screenshot 2025-11-22 195218" src="https://github.com/user-attachments/assets/fdf44bfe-4ea3-4c8e-845a-ce558ca38d31" />
 
 ### 🔹 Stock Comparison
-<img width="1883" height="575" alt="Image" src="https://github.com/user-attachments/assets/cfa12a08-069d-481e-942b-07031b877f41" />
-<img width="1895" height="1021" alt="Image" src="https://github.com/user-attachments/assets/6c2ff44e-29d3-433f-8e6a-130266ff315e" />
+<img width="1883" height="575" alt="Screenshot 2025-11-22 195255" src="https://github.com/user-attachments/assets/e08e53f7-629f-4023-8607-d8cd6a1e004f" />
+<img width="1895" height="1021" alt="Screenshot 2025-11-22 195313" src="https://github.com/user-attachments/assets/310ee340-6b7e-41bd-ae6c-98b30cd710a0" />
 
 ```
 
