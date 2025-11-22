@@ -186,15 +186,21 @@ http://127.0.0.1:7860
 
 ## 📸 Screenshots
 
-(Replace with actual images)
-
 ```
-<img width="1892" height="566" alt="Screenshot 2025-11-22 193248" src="https://github.com/user-attachments/assets/57e1e68e-439c-46f8-9219-8174aeaa4e8d" />
-<img width="913" height="953" alt="Screenshot 2025-11-22 193302" src="https://github.com/user-attachments/assets/e58b47ba-a146-466b-849f-b3098fce28ab" />
-<img width="1884" height="819" alt="Screenshot 2025-11-22 195159" src="https://github.com/user-attachments/assets/033e78d8-d329-4be2-adbf-0bff067b648a" />
-<img width="996" height="994" alt="Screenshot 2025-11-22 195218" src="https://github.com/user-attachments/assets/de872464-cbfc-402b-9fec-17d09e2fa5d8" />
-<img width="1883" height="575" alt="Screenshot 2025-11-22 195255" src="https://github.com/user-attachments/assets/5341134f-075d-4165-9ce6-a32a27d33208" />
-<img width="1895" height="1021" alt="Screenshot 2025-11-22 195313" src="https://github.com/user-attachments/assets/8886d854-6667-48e1-893f-e801c335bee8" />
+## 📸 Screenshots
+
+### 🔹 Risk Profiler
+<img width="900" src="LINK1" />
+
+### 🔹 Stock Analysis
+<img width="900" src="LINK2" />
+
+### 🔹 Technical Charts
+<img width="900" src="LINK3" />
+
+### 🔹 Stock Comparison
+<img width="900" src="LINK4" />
+
 
 ```
 
