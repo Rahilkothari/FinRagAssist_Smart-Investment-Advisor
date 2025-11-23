@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+yfinance
+xgboost
+scikit-learn
+sentence-transformers
+chromadb
+langchain
+python-dotenv
+gradio
